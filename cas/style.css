@@ -1,9 +1,9 @@
-@import url(./cas/_nullStyles.css);
-@import url(./cas/_fonts.css);
-@import url(./cas/_block1.css);
-@import url(./cas/_block2.css);
-@import url(./cas/_block3.css);
-@import url(./cas/_block4.css);
+@import url(./cas/nullStyles.css);
+@import url(./cas/fonts.css);
+@import url(./cas/block1.css);
+@import url(./cas/block2.css);
+@import url(./cas/block3.css);
+@import url(./cas/giblock4.css);
 
 @media (max-width: 1400px) {
   .images>img {
