@@ -1,9 +1,9 @@
-@import url(./_nullStyles.css);
-@import url(./_fonts.css);
-@import url(./_block1.css);
-@import url(./_block2.css);
-@import url(./_block3.css);
-@import url(./_block4.css);
+@import url(cas/_nullStyles.css);
+@import url(cas/_fonts.css);
+@import url(cas/_block1.css);
+@import url(cas/_block2.css);
+@import url(cas/_block3.css);
+@import url(cas/_block4.css);
 
 @media (max-width: 1400px) {
   .images>img {
