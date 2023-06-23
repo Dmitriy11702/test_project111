@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Vampiro One', cursive;
+  src: url(FONT_FILE_NAME.woff2) format('woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'TT Hoves';
+  src: local('TT Hoves Medium'),
+    local('TT-Hoves-Medium'),
+    url('/ttf/TTHoves-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'TT Hoves';
+  src: local('TT Hoves Bold'), local('TT-Hoves-Bold'),
+    url('/ttf/TTHoves-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+div {
+  font-family: 'TT Hoves';
+}

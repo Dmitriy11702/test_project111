@@ -1,0 +1,88 @@
+.text23 {
+  margin-left: 30px;
+}
+
+.text1_img {
+  padding-top: 22px;
+  display: block;
+}
+
+.text {
+  width: 352px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #4F4F4F;
+  margin-bottom: 30px;
+}
+
+.about {
+  background: #E15252;
+  background-image: url(/assets/img/block_3_bg.png);
+  /*  background-image: url(/assets/img/Frame\ 10.png);*/
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about__container {}
+
+.about__main-content {}
+
+.main-content {}
+
+.main-content__text {}
+
+.text__text-tittle {
+  text-align: center;
+  padding-top: 50px;
+  font-size: 64px;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+.text__subtittle {
+  margin: 10px 0 50px 0;
+  font-size: 18px;
+  font-weight: 500;
+  color: #333333;
+  text-align: center;
+}
+
+.main_content__main-info {
+  display: flex;
+  margin: 0 auto;
+  width: 1200px;
+  height: 648px;
+  background: #FFFFFF;
+  border-radius: 50px 50px 0px 0px;
+}
+
+.women-img {}
+
+.main-info__text {
+  margin-left: 30px;
+}
+
+.text_company {
+  font-family: 'Vampiro One';
+  font-size: 46px;
+  margin-top: 139px;
+  margin-bottom: 20px;
+}
+
+.text1_img {
+  padding-top: 22px;
+  display: block;
+}
+
+.text__main-paragraph {
+  width: 352px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #4F4F4F;
+  margin-bottom: 30px;
+}
+
+.footer__bg {
+  background-color: #C4C4C4;
+  height: 92px;
+}
