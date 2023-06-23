@@ -8,14 +8,14 @@
   font-family: 'TT Hoves';
   src: local('TT Hoves Medium'),
     local('TT-Hoves-Medium'),
-    url('ttf/TTHoves-Medium.ttf') format('truetype');
+    url('TTHoves-Medium.ttf') format('truetype');
   font-weight: 500;
 }
 
 @font-face {
   font-family: 'TT Hoves';
   src: local('TT Hoves Bold'), local('TT-Hoves-Bold'),
-    url('ttf/TTHoves-Bold.ttf') format('truetype');
+    url('TTHoves-Bold.ttf') format('truetype');
   font-weight: 700;
 }
 

@@ -17,8 +17,7 @@
 
 .about {
   background: #E15252;
-  background-image: url(/assets/img/block_3_bg.png);
-  /*  background-image: url(/assets/img/Frame\ 10.png);*/
+  background-image: url(assets/img/block_3_bg.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
