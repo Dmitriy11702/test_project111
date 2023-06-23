@@ -30,7 +30,7 @@
     margin: 0 auto;
   }
 
-  .women-img {
+  .main-info__women-img {
     display: none;
   }
 
@@ -38,13 +38,11 @@
     flex-direction: column;
   }
 
-  .main_border {
-    width: auto;
-  }
-
-  .main_border {
+  .border-us__main-border {
+    width: auto; 
     font-size: 48px;
   }
+
 
   .items-form__links {
     margin-left: 112px;
