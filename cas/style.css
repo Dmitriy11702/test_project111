@@ -67,14 +67,23 @@
   }
 
   .text-tittle__tittle {
-    font-size: 28px;
+    font-size: 25px;
   }
-
+  .text-tittle__main-text{
+    width: auto;
+  }
   .text-tittle__subtittle {
-    font-style: 14px;
+    font-size: 24px;  
   }
 
-  .text-tittle__main-text {
+  .logo__round-rock {
     width: 320px;
+  }
+  .main-content__text-tittle{
+    width: 245px;
+  }
+
+  .s-tittle{
+    font-size: 56px;
   }
 }
