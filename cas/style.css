@@ -5,6 +5,25 @@
 @import url(./block3.css);
 @import url(./block4.css);
 
+@font-face {
+  font-family: 'TT Hoves';
+  src:
+    local('TTHoves-Medium'),
+    url('/ttf/TTHoves-Medium.ttf') format('truetype'),
+    url('/ttf/TTHoves-Medium.woff') format('truetype'),
+    url('/ttf/TTHoves-Medium.woff2') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'TT Hoves';
+  src: local('TTHoves-Bold'),
+    url('../ttf/TTHoves-Bold.ttf') format('truetype'),
+    url('../ttf/TTHoves-Bold.woff') format('truetype'),
+    url('../ttf/TTHoves-Bold.woff2') format('truetype');
+  font-weight: 700;
+}
+
 @media (max-width: 1400px) {
   .images>img {
     display: none;

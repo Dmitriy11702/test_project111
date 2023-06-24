@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Vampiro One', cursive;
+  src: url(FONT_FILE_NAME.woff2) format('woff2');
+  font-weight: 400;
+}
+
+
+
+div {
+  font-family: 'TT Hoves';
+}
