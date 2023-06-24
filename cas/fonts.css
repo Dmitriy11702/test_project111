@@ -14,13 +14,7 @@ font-weight: 700;
   
 
 }
-@font-face {
-src: local('TT Hoves Medium'), local('TT-Hoves-Medium'),
-      url('TTHoves-Medium.woff2') format('woff2'),
-      url('TTHoves-Medium.woff') format('woff'),
-      url('TTHoves-Medium.ttf') format('truetype');
-  font-weight: 500;
-}
+
 
 div {
   font-family: 'TT Hoves';
