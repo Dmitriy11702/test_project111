@@ -17,9 +17,9 @@
 @font-face {
   font-family: 'TT Hoves';
   src: local('TTHoves-Bold'),
-    url('ttf/TTHoves-Bold.ttf') format('truetype'),
-    url('ttf/TTHoves-Bold.woff') format('truetype'),
-    url('ttf/TTHoves-Bold.woff2') format('truetype');
+    url('/ttf/TTHoves-Bold.ttf') format('truetype'),
+    url('/ttf/TTHoves-Bold.woff') format('truetype'),
+    url('/ttf/TTHoves-Bold.woff2') format('truetype');
   font-weight: 700;
 }
 
