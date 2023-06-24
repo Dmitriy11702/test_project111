@@ -62,9 +62,6 @@
 }
 
 @media (max-width: 495px) {
-  .main-content__logo {
-    width: 320px;
-  }
 
   .text-tittle__tittle {
     font-size: 25px;
@@ -84,6 +81,6 @@
   }
 
   .s-tittle{
-    font-size: 56px;
+    font-size: 42px;
   }
 }
