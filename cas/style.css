@@ -59,18 +59,22 @@
   .items-form__input {
     align-items: center;
   }
-  @media (max-width: 495px){
-    .main-content__logo{
-      width: 320px;
-    }
-    .text-tittle__tittle{
-      font-size: 28px;
-    }
-    .text-tittle__subtittle{
-      font-style: 14px;
-    }
-    .text-tittle__main-text{
-      width: 320px;
-    }
+}
+
+@media (max-width: 495px) {
+  .main-content__logo {
+    width: 320px;
+  }
+
+  .text-tittle__tittle {
+    font-size: 28px;
+  }
+
+  .text-tittle__subtittle {
+    font-style: 14px;
+  }
+
+  .text-tittle__main-text {
+    width: 320px;
   }
 }
