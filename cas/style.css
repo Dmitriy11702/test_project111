@@ -17,7 +17,7 @@
 
 @media (max-width: 1215px) {
   .main_content__main-info {
-    width: none;
+    width: 100%;
   }
 }
 
